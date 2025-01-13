@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+scikit-learn
+fastembed
+pypdf
+chromadb
+streamlit
+streamlit-chat
